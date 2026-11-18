@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "161655341567",
+    "project_id": "notes-233ac",
+    "storage_bucket": "notes-233ac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161655341567:android:4b0757d15f42c70ae127ca",
+        "android_client_info": {
+          "package_name": "com.example.firbase_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161655341567-cqdcrjfqj5osl6h2j8rpngse3t9lfipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAc4nRMd0WkY8qMJ2yhemCyHDj7oKPgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161655341567-cqdcrjfqj5osl6h2j8rpngse3t9lfipb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "161655341567-9t3khq72j19s3mki576fprt13vgke11d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mangrobangTask9"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161655341567:android:f249e6fdffa3c2c5e127ca",
+        "android_client_info": {
+          "package_name": "com.example.mangrobang_task_9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161655341567-cqdcrjfqj5osl6h2j8rpngse3t9lfipb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqAc4nRMd0WkY8qMJ2yhemCyHDj7oKPgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161655341567-cqdcrjfqj5osl6h2j8rpngse3t9lfipb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "161655341567-9t3khq72j19s3mki576fprt13vgke11d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mangrobangTask9"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
